@@ -1,0 +1,100 @@
+{
+  "source": "ESPN",
+  "date": "2026-10-28",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261028_PHI_WSH",
+      "status": "final",
+      "result": "reg",
+      "home": "WSH",
+      "away": "PHI",
+      "teams": {
+        "WSH": {
+          "p": [1, 2, 2],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 2
+        },
+        "PHI": {
+          "p": [0, 1, 1],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 5
+        }
+      }
+    },
+    {
+      "game_id": "20261028_CGY_EDM",
+      "status": "final",
+      "result": "reg",
+      "home": "EDM",
+      "away": "CGY",
+      "teams": {
+        "EDM": {
+          "p": [1, 1, 2],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 0
+        },
+        "CGY": {
+          "p": [0, 0, 0],
+          "ot": null,
+          "so": null,
+          "gf": 0,
+          "ga": 4
+        }
+      }
+    },
+    {
+      "game_id": "20261028_NJD_COL",
+      "status": "final",
+      "result": "reg",
+      "home": "COL",
+      "away": "NJD",
+      "teams": {
+        "COL": {
+          "p": [0, 1, 4],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 2
+        },
+        "NJD": {
+          "p": [1, 0, 1],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 5
+        }
+      }
+    },
+    {
+      "game_id": "20261028_TOR_SEA",
+      "status": "final",
+      "result": "reg",
+      "home": "SEA",
+      "away": "TOR",
+      "teams": {
+        "SEA": {
+          "p": [1, 3, 1],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 4
+        },
+        "TOR": {
+          "p": [1, 1, 2],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 5
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

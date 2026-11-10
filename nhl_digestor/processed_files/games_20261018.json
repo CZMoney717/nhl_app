@@ -1,0 +1,70 @@
+{
+  "source": "ESPN",
+  "date": "2026-10-18",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261018_CBJ_MIN",
+      "status": "final",
+      "result": "reg",
+      "home": "MIN",
+      "away": "CBJ",
+      "teams": {
+        "CBJ": {
+          "p": [
+            1,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 2
+        },
+        "MIN": {
+          "p": [
+            1,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261018_CAR_CGY",
+      "status": "final",
+      "result": "reg",
+      "home": "CGY",
+      "away": "CAR",
+      "teams": {
+        "CAR": {
+          "p": [
+            0,
+            2,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 3
+        },
+        "CGY": {
+          "p": [
+            0,
+            2,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 2
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

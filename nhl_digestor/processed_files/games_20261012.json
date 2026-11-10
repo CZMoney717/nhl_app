@@ -1,0 +1,101 @@
+{
+  "source": "ESPN",
+  "date": "2026-10-12",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261012_FLA_BUF",
+      "status": "final",
+      "result": "reg",
+      "home": "BUF",
+      "away": "FLA",
+      "teams": {
+        "FLA": {
+          "p": [
+            1,
+            2,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 5
+        },
+        "BUF": {
+          "p": [
+            2,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261012_OTT_NJD",
+      "status": "final",
+      "result": "reg",
+      "home": "NJD",
+      "away": "OTT",
+      "teams": {
+        "OTT": {
+          "p": [
+            0,
+            2,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 1
+        },
+        "NJD": {
+          "p": [
+            0,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 4
+        }
+      }
+    },
+    {
+      "game_id": "20261012_VGK_MIN",
+      "status": "final",
+      "result": "reg",
+      "home": "MIN",
+      "away": "VGK",
+      "teams": {
+        "VGK": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 4
+        },
+        "MIN": {
+          "p": [
+            3,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 2
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

@@ -1,0 +1,101 @@
+{
+  "source": "ESPN",
+  "date": "2026-09-30",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20260930_PIT_PHI",
+      "status": "final",
+      "result": "reg",
+      "home": "PHI",
+      "away": "PIT",
+      "teams": {
+        "PHI": {
+          "p": [
+            0,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 0,
+          "ga": 7
+        },
+        "PIT": {
+          "p": [
+            2,
+            3,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 7,
+          "ga": 0
+        }
+      }
+    },
+    {
+      "game_id": "20260930_NYI_TOR",
+      "status": "final",
+      "result": "reg",
+      "home": "TOR",
+      "away": "NYI",
+      "teams": {
+        "TOR": {
+          "p": [
+            2,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 1
+        },
+        "NYI": {
+          "p": [
+            0,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20260930_LAK_COL",
+      "status": "final",
+      "result": "reg",
+      "home": "COL",
+      "away": "LAK",
+      "teams": {
+        "COL": {
+          "p": [
+            2,
+            4,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 8,
+          "ga": 4
+        },
+        "LAK": {
+          "p": [
+            1,
+            2,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 8
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

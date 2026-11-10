@@ -57,15 +57,17 @@ if page == "Charts":
 
     team_list = sorted(teams_data.keys())
     selected = st.sidebar.selectbox("Team", team_list)
+    x_mode = st.sidebar.radio("X axis", ["game_num"], index=0)
     show_volume = st.sidebar.checkbox("Show GF+GA bars", value=False)
 
     df = teams_data[selected].copy()
     df["SMA3"] = df["Close"].rolling(3).mean()
     df["SMA6"] = df["Close"].rolling(6).mean()
+    x = df[x_mode]
 
     fig = go.Figure()
     fig.add_trace(go.Candlestick(
-        x=df["game_num"],
+        x=x,
         open=df["Open"],
         high=df["High"],
         low=df["Low"],
@@ -83,18 +85,18 @@ if page == "Charts":
         ],
     ))
     fig.add_trace(go.Scatter(
-        x=df["game_num"], y=df["SMA3"],
+        x=x, y=df["SMA3"],
         name="SMA 3", line=dict(color="orange", width=2),
     ))
     fig.add_trace(go.Scatter(
-        x=df["game_num"], y=df["SMA6"],
+        x=x, y=df["SMA6"],
         name="SMA 6", line=dict(color="cyan", width=2),
     ))
 
     if show_volume:
         colors = ["#00ff88" if c >= o else "#ff4444" for o, c in zip(df["Open"], df["Close"])]
         fig.add_trace(go.Bar(
-            x=df["game_num"],
+            x=x,
             y=df["gf"] + df["ga"],
             name="GF+GA",
             marker_color=colors,
@@ -107,7 +109,7 @@ if page == "Charts":
 
     fig.update_layout(
         title=f"{selected} — cumulative goal differential",
-        xaxis_title="game_num",
+        xaxis_title=x_mode,
         yaxis_title="Goal Diff",
         height=650,
         template="plotly_dark",
@@ -143,23 +145,28 @@ else:  # Performance
         last3 = int((df["gf"].iloc[-3:] - df["ga"].iloc[-3:]).sum()) if len(df) >= 1 else 0
         last6 = int((df["gf"].iloc[-6:] - df["ga"].iloc[-6:]).sum()) if len(df) >= 1 else 0
         custom = int((df["gf"].iloc[-lookback:] - df["ga"].iloc[-lookback:]).sum())
-        rows.append({
+        row = {
             "Team": team,
             "Games": len(df),
             "Close": int(df["Close"].iloc[-1]),
             "Last 3": last3,
             "Last 6": last6,
-            f"Last {lookback}": custom,
             "Win %": f"{df['win'].mean():.0%}",
             "Win by 2 %": f"{df['win_by_2'].mean():.0%}",
-        })
+        }
+        # only add a custom column when it is not already Last 3 or Last 6
+        if lookback not in (3, 6):
+            row[f"Last {lookback}"] = custom
+        rows.append(row)
 
     perf = pd.DataFrame(rows).sort_values("Close", ascending=False)
+
+    gradient_cols = ["Close", "Last 3", "Last 6"]
+    if lookback not in (3, 6):
+        gradient_cols.append(f"Last {lookback}")
+
     st.dataframe(
-        perf.style.background_gradient(
-            subset=["Close", "Last 3", "Last 6", f"Last {lookback}"],
-            cmap="RdYlGn",
-        ),
+        perf.style.background_gradient(subset=gradient_cols, cmap="RdYlGn"),
         use_container_width=True,
         hide_index=True,
     )

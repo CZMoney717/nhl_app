@@ -1,0 +1,101 @@
+{
+  "source": "ESPN",
+  "date": "2026-10-26",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261026_LAK_NYR",
+      "status": "final",
+      "result": "reg",
+      "home": "NYR",
+      "away": "LAK",
+      "teams": {
+        "LAK": {
+          "p": [
+            3,
+            2,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 6,
+          "ga": 3
+        },
+        "NYR": {
+          "p": [
+            1,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 6
+        }
+      }
+    },
+    {
+      "game_id": "20261026_TOR_CGY",
+      "status": "final",
+      "result": "reg",
+      "home": "CGY",
+      "away": "TOR",
+      "teams": {
+        "TOR": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 5
+        },
+        "CGY": {
+          "p": [
+            2,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20261026_DET_EDM",
+      "status": "final",
+      "result": "so",
+      "home": "EDM",
+      "away": "DET",
+      "teams": {
+        "DET": {
+          "p": [
+            0,
+            1,
+            2
+          ],
+          "ot": 0,
+          "so": 1,
+          "gf": 4,
+          "ga": 3
+        },
+        "EDM": {
+          "p": [
+            1,
+            0,
+            2
+          ],
+          "ot": 0,
+          "so": 0,
+          "gf": 3,
+          "ga": 4
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

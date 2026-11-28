@@ -1,0 +1,101 @@
+{
+  "source": "ESPN",
+  "date": "2026-11-18",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261118_BOS_DET",
+      "status": "final",
+      "result": "reg",
+      "home": "DET",
+      "away": "BOS",
+      "teams": {
+        "DET": {
+          "p": [
+            1,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 4
+        },
+        "BOS": {
+          "p": [
+            0,
+            2,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261118_MTL_NJD",
+      "status": "final",
+      "result": "reg",
+      "home": "NJD",
+      "away": "MTL",
+      "teams": {
+        "NJD": {
+          "p": [
+            2,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 3
+        },
+        "MTL": {
+          "p": [
+            2,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20261118_COL_UTA",
+      "status": "final",
+      "result": "reg",
+      "home": "UTA",
+      "away": "COL",
+      "teams": {
+        "UTA": {
+          "p": [
+            0,
+            2,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 1
+        },
+        "COL": {
+          "p": [
+            0,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 4
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

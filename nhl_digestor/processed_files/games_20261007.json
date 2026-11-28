@@ -1,0 +1,101 @@
+{
+  "source": "ESPN",
+  "date": "2026-10-07",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261007_PIT_WSH",
+      "status": "final",
+      "result": "reg",
+      "home": "WSH",
+      "away": "PIT",
+      "teams": {
+        "PIT": {
+          "p": [
+            1,
+            2,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 5
+        },
+        "WSH": {
+          "p": [
+            2,
+            2,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261007_COL_WPG",
+      "status": "final",
+      "result": "reg",
+      "home": "WPG",
+      "away": "COL",
+      "teams": {
+        "COL": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 3
+        },
+        "WPG": {
+          "p": [
+            0,
+            2,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20261007_EDM_ANA",
+      "status": "final",
+      "result": "reg",
+      "home": "ANA",
+      "away": "EDM",
+      "teams": {
+        "EDM": {
+          "p": [
+            0,
+            5,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 2
+        },
+        "ANA": {
+          "p": [
+            2,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 5
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

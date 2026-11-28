@@ -1,0 +1,70 @@
+{
+  "source": "ESPN",
+  "date": "2026-11-13",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261113_NYR_VAN",
+      "status": "final",
+      "result": "reg",
+      "home": "VAN",
+      "away": "NYR",
+      "teams": {
+        "VAN": {
+          "p": [
+            1,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 5
+        },
+        "NYR": {
+          "p": [
+            1,
+            4,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261113_NSH_VGK",
+      "status": "final",
+      "result": "so",
+      "home": "VGK",
+      "away": "NSH",
+      "teams": {
+        "VGK": {
+          "p": [
+            1,
+            1,
+            0
+          ],
+          "ot": 0,
+          "so": 0,
+          "gf": 2,
+          "ga": 3
+        },
+        "NSH": {
+          "p": [
+            1,
+            0,
+            1
+          ],
+          "ot": 0,
+          "so": 1,
+          "gf": 3,
+          "ga": 2
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

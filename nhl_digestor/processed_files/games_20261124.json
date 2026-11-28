@@ -1,0 +1,39 @@
+{
+  "source": "ESPN",
+  "date": "2026-11-24",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261124_VGK_EDM",
+      "status": "final",
+      "result": "reg",
+      "home": "EDM",
+      "away": "VGK",
+      "teams": {
+        "EDM": {
+          "p": [
+            0,
+            2,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 5
+        },
+        "VGK": {
+          "p": [
+            2,
+            0,
+            3
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 3
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

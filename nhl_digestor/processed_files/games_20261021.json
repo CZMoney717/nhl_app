@@ -1,0 +1,70 @@
+{
+  "source": "ESPN",
+  "date": "2026-10-21",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261021_PHI_BUF",
+      "status": "final",
+      "result": "reg",
+      "home": "BUF",
+      "away": "PHI",
+      "teams": {
+        "PHI": {
+          "p": [
+            2,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 1
+        },
+        "BUF": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261021_FLA_OTT",
+      "status": "final",
+      "result": "reg",
+      "home": "OTT",
+      "away": "FLA",
+      "teams": {
+        "FLA": {
+          "p": [
+            1,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 5
+        },
+        "OTT": {
+          "p": [
+            1,
+            2,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 1
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

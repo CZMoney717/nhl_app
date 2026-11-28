@@ -1,0 +1,163 @@
+{
+  "source": "ESPN",
+  "date": "2026-11-15",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261115_EDM_PHI",
+      "status": "final",
+      "result": "reg",
+      "home": "PHI",
+      "away": "EDM",
+      "teams": {
+        "PHI": {
+          "p": [
+            0,
+            2,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 5
+        },
+        "EDM": {
+          "p": [
+            3,
+            0,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20261115_FLA_DAL",
+      "status": "final",
+      "result": "ot",
+      "home": "DAL",
+      "away": "FLA",
+      "teams": {
+        "DAL": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": 1,
+          "so": null,
+          "gf": 2,
+          "ga": 1
+        },
+        "FLA": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": 0,
+          "so": null,
+          "gf": 1,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20261115_CGY_ANA",
+      "status": "final",
+      "result": "reg",
+      "home": "ANA",
+      "away": "CGY",
+      "teams": {
+        "ANA": {
+          "p": [
+            2,
+            0,
+            4
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 6,
+          "ga": 1
+        },
+        "CGY": {
+          "p": [
+            0,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 6
+        }
+      }
+    },
+    {
+      "game_id": "20261115_VAN_VGK",
+      "status": "final",
+      "result": "reg",
+      "home": "VGK",
+      "away": "VAN",
+      "teams": {
+        "VGK": {
+          "p": [
+            1,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 6
+        },
+        "VAN": {
+          "p": [
+            3,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 6,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261115_NSH_SJS",
+      "status": "final",
+      "result": "reg",
+      "home": "SJS",
+      "away": "NSH",
+      "teams": {
+        "SJS": {
+          "p": [
+            2,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 2
+        },
+        "NSH": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 4
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

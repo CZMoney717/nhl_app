@@ -1,0 +1,101 @@
+{
+  "source": "ESPN",
+  "date": "2026-10-11",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261011_SEA_WSH",
+      "status": "final",
+      "result": "reg",
+      "home": "WSH",
+      "away": "SEA",
+      "teams": {
+        "SEA": {
+          "p": [
+            2,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 3
+        },
+        "WSH": {
+          "p": [
+            2,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 5
+        }
+      }
+    },
+    {
+      "game_id": "20261011_VAN_NYR",
+      "status": "final",
+      "result": "reg",
+      "home": "NYR",
+      "away": "VAN",
+      "teams": {
+        "VAN": {
+          "p": [
+            1,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 6
+        },
+        "NYR": {
+          "p": [
+            1,
+            2,
+            3
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 6,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20261011_CAR_PHI",
+      "status": "final",
+      "result": "reg",
+      "home": "PHI",
+      "away": "CAR",
+      "teams": {
+        "CAR": {
+          "p": [
+            0,
+            3,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 1
+        },
+        "PHI": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 4
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

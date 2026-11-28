@@ -1,0 +1,70 @@
+{
+  "source": "ESPN",
+  "date": "2026-10-14",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261014_MTL_WSH",
+      "status": "final",
+      "result": "reg",
+      "home": "WSH",
+      "away": "MTL",
+      "teams": {
+        "WSH": {
+          "p": [
+            2,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 4
+        },
+        "MTL": {
+          "p": [
+            2,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 5
+        }
+      }
+    },
+    {
+      "game_id": "20261014_DAL_COL",
+      "status": "final",
+      "result": "so",
+      "home": "COL",
+      "away": "DAL",
+      "teams": {
+        "COL": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": 0,
+          "so": 0,
+          "gf": 2,
+          "ga": 3
+        },
+        "DAL": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": 0,
+          "so": 1,
+          "gf": 3,
+          "ga": 2
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

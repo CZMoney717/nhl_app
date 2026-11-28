@@ -1,0 +1,132 @@
+{
+  "source": "ESPN",
+  "date": "2026-11-04",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261104_OTT_BUF",
+      "status": "final",
+      "result": "reg",
+      "home": "BUF",
+      "away": "OTT",
+      "teams": {
+        "BUF": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 2
+        },
+        "OTT": {
+          "p": [
+            0,
+            0,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261104_CHI_FLA",
+      "status": "final",
+      "result": "reg",
+      "home": "FLA",
+      "away": "CHI",
+      "teams": {
+        "FLA": {
+          "p": [
+            2,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 3
+        },
+        "CHI": {
+          "p": [
+            0,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 5
+        }
+      }
+    },
+    {
+      "game_id": "20261104_SJS_LAK",
+      "status": "final",
+      "result": "reg",
+      "home": "LAK",
+      "away": "SJS",
+      "teams": {
+        "LAK": {
+          "p": [
+            3,
+            2,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 7,
+          "ga": 2
+        },
+        "SJS": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 7
+        }
+      }
+    },
+    {
+      "game_id": "20261104_CGY_SEA",
+      "status": "final",
+      "result": "ot",
+      "home": "SEA",
+      "away": "CGY",
+      "teams": {
+        "SEA": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": 1,
+          "so": null,
+          "gf": 2,
+          "ga": 1
+        },
+        "CGY": {
+          "p": [
+            1,
+            0,
+            0
+          ],
+          "ot": 0,
+          "so": null,
+          "gf": 1,
+          "ga": 2
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

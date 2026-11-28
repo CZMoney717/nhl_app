@@ -1,0 +1,442 @@
+{
+  "source": "ESPN",
+  "date": "2026-11-25",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261125_WPG_BOS",
+      "status": "final",
+      "result": "reg",
+      "home": "BOS",
+      "away": "WPG",
+      "teams": {
+        "BOS": {
+          "p": [
+            1,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 4
+        },
+        "WPG": {
+          "p": [
+            2,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20261125_NYR_BUF",
+      "status": "final",
+      "result": "reg",
+      "home": "BUF",
+      "away": "NYR",
+      "teams": {
+        "BUF": {
+          "p": [
+            1,
+            2,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 1
+        },
+        "NYR": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 5
+        }
+      }
+    },
+    {
+      "game_id": "20261125_CAR_TBL",
+      "status": "final",
+      "result": "reg",
+      "home": "TBL",
+      "away": "CAR",
+      "teams": {
+        "TBL": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 3
+        },
+        "CAR": {
+          "p": [
+            0,
+            0,
+            3
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261125_OTT_FLA",
+      "status": "final",
+      "result": "reg",
+      "home": "FLA",
+      "away": "OTT",
+      "teams": {
+        "FLA": {
+          "p": [
+            1,
+            2,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 3
+        },
+        "OTT": {
+          "p": [
+            0,
+            2,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 5
+        }
+      }
+    },
+    {
+      "game_id": "20261125_STL_NYI",
+      "status": "final",
+      "result": "so",
+      "home": "NYI",
+      "away": "STL",
+      "teams": {
+        "NYI": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": 0,
+          "so": 1,
+          "gf": 3,
+          "ga": 2
+        },
+        "STL": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": 0,
+          "so": 0,
+          "gf": 2,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261125_CGY_PIT",
+      "status": "final",
+      "result": "reg",
+      "home": "PIT",
+      "away": "CGY",
+      "teams": {
+        "PIT": {
+          "p": [
+            1,
+            2,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 6
+        },
+        "CGY": {
+          "p": [
+            0,
+            4,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 6,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261125_PHI_WSH",
+      "status": "final",
+      "result": "reg",
+      "home": "WSH",
+      "away": "PHI",
+      "teams": {
+        "WSH": {
+          "p": [
+            1,
+            2,
+            4
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 7,
+          "ga": 3
+        },
+        "PHI": {
+          "p": [
+            1,
+            0,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 7
+        }
+      }
+    },
+    {
+      "game_id": "20261125_NJD_CBJ",
+      "status": "final",
+      "result": "so",
+      "home": "CBJ",
+      "away": "NJD",
+      "teams": {
+        "CBJ": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": 0,
+          "so": 0,
+          "gf": 2,
+          "ga": 3
+        },
+        "NJD": {
+          "p": [
+            1,
+            1,
+            0
+          ],
+          "ot": 0,
+          "so": 1,
+          "gf": 3,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20261125_VAN_DET",
+      "status": "final",
+      "result": "reg",
+      "home": "DET",
+      "away": "VAN",
+      "teams": {
+        "DET": {
+          "p": [
+            3,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 1
+        },
+        "VAN": {
+          "p": [
+            0,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 5
+        }
+      }
+    },
+    {
+      "game_id": "20261125_NSH_DAL",
+      "status": "final",
+      "result": "reg",
+      "home": "DAL",
+      "away": "NSH",
+      "teams": {
+        "DAL": {
+          "p": [
+            0,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 3
+        },
+        "NSH": {
+          "p": [
+            1,
+            0,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261125_UTA_MIN",
+      "status": "final",
+      "result": "reg",
+      "home": "MIN",
+      "away": "UTA",
+      "teams": {
+        "MIN": {
+          "p": [
+            0,
+            2,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 4
+        },
+        "UTA": {
+          "p": [
+            1,
+            3,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261125_MTL_COL",
+      "status": "final",
+      "result": "reg",
+      "home": "COL",
+      "away": "MTL",
+      "teams": {
+        "COL": {
+          "p": [
+            1,
+            3,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 6,
+          "ga": 0
+        },
+        "MTL": {
+          "p": [
+            0,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 0,
+          "ga": 6
+        }
+      }
+    },
+    {
+      "game_id": "20261125_CHI_SEA",
+      "status": "final",
+      "result": "reg",
+      "home": "SEA",
+      "away": "CHI",
+      "teams": {
+        "SEA": {
+          "p": [
+            0,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 3
+        },
+        "CHI": {
+          "p": [
+            0,
+            0,
+            3
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261125_SJS_ANA",
+      "status": "final",
+      "result": "reg",
+      "home": "ANA",
+      "away": "SJS",
+      "teams": {
+        "ANA": {
+          "p": [
+            3,
+            2,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 7,
+          "ga": 0
+        },
+        "SJS": {
+          "p": [
+            0,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 0,
+          "ga": 7
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

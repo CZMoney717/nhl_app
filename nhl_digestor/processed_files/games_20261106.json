@@ -1,0 +1,101 @@
+{
+  "source": "ESPN",
+  "date": "2026-11-06",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261106_CBJ_BUF",
+      "status": "final",
+      "result": "reg",
+      "home": "BUF",
+      "away": "CBJ",
+      "teams": {
+        "BUF": {
+          "p": [
+            2,
+            3,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 2
+        },
+        "CBJ": {
+          "p": [
+            1,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 5
+        }
+      }
+    },
+    {
+      "game_id": "20261106_SJS_MIN",
+      "status": "final",
+      "result": "reg",
+      "home": "MIN",
+      "away": "SJS",
+      "teams": {
+        "MIN": {
+          "p": [
+            1,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 1
+        },
+        "SJS": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 4
+        }
+      }
+    },
+    {
+      "game_id": "20261106_ANA_CGY",
+      "status": "final",
+      "result": "reg",
+      "home": "CGY",
+      "away": "ANA",
+      "teams": {
+        "CGY": {
+          "p": [
+            3,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 5
+        },
+        "ANA": {
+          "p": [
+            1,
+            1,
+            3
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 3
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

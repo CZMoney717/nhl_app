@@ -1,0 +1,70 @@
+{
+  "source": "ESPN",
+  "date": "2026-11-16",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261116_MTL_NYR",
+      "status": "final",
+      "result": "reg",
+      "home": "NYR",
+      "away": "MTL",
+      "teams": {
+        "NYR": {
+          "p": [
+            0,
+            2,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 1
+        },
+        "MTL": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261116_VAN_UTA",
+      "status": "final",
+      "result": "reg",
+      "home": "UTA",
+      "away": "VAN",
+      "teams": {
+        "UTA": {
+          "p": [
+            0,
+            0,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 3
+        },
+        "VAN": {
+          "p": [
+            0,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 2
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

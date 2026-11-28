@@ -1,0 +1,194 @@
+{
+  "source": "ESPN",
+  "date": "2026-11-08",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261108_FLA_BOS",
+      "status": "final",
+      "result": "reg",
+      "home": "BOS",
+      "away": "FLA",
+      "teams": {
+        "BOS": {
+          "p": [
+            3,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 1
+        },
+        "FLA": {
+          "p": [
+            1,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 4
+        }
+      }
+    },
+    {
+      "game_id": "20261108_VGK_BUF",
+      "status": "final",
+      "result": "reg",
+      "home": "BUF",
+      "away": "VGK",
+      "teams": {
+        "BUF": {
+          "p": [
+            0,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 4
+        },
+        "VGK": {
+          "p": [
+            0,
+            2,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261108_TBL_WPG",
+      "status": "final",
+      "result": "reg",
+      "home": "WPG",
+      "away": "TBL",
+      "teams": {
+        "WPG": {
+          "p": [
+            0,
+            2,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 3
+        },
+        "TBL": {
+          "p": [
+            0,
+            0,
+            3
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 4
+        }
+      }
+    },
+    {
+      "game_id": "20261108_NJD_TOR",
+      "status": "final",
+      "result": "reg",
+      "home": "TOR",
+      "away": "NJD",
+      "teams": {
+        "TOR": {
+          "p": [
+            0,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 0,
+          "ga": 4
+        },
+        "NJD": {
+          "p": [
+            0,
+            2,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 0
+        }
+      }
+    },
+    {
+      "game_id": "20261108_PHI_CGY",
+      "status": "final",
+      "result": "ot",
+      "home": "CGY",
+      "away": "PHI",
+      "teams": {
+        "CGY": {
+          "p": [
+            1,
+            1,
+            1
+          ],
+          "ot": 1,
+          "so": null,
+          "gf": 4,
+          "ga": 3
+        },
+        "PHI": {
+          "p": [
+            1,
+            2,
+            0
+          ],
+          "ot": 0,
+          "so": null,
+          "gf": 3,
+          "ga": 4
+        }
+      }
+    },
+    {
+      "game_id": "20261108_PIT_ANA",
+      "status": "final",
+      "result": "reg",
+      "home": "ANA",
+      "away": "PIT",
+      "teams": {
+        "ANA": {
+          "p": [
+            1,
+            2,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 2
+        },
+        "PIT": {
+          "p": [
+            0,
+            0,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 5
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

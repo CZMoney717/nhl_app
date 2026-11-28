@@ -1,0 +1,380 @@
+{
+  "source": "ESPN",
+  "date": "2026-10-24",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261024_ANA_PHI",
+      "status": "final",
+      "result": "reg",
+      "home": "PHI",
+      "away": "ANA",
+      "teams": {
+        "ANA": {
+          "p": [
+            0,
+            3,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 4
+        },
+        "PHI": {
+          "p": [
+            2,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 5
+        }
+      }
+    },
+    {
+      "game_id": "20261024_LAK_NJD",
+      "status": "final",
+      "result": "reg",
+      "home": "NJD",
+      "away": "LAK",
+      "teams": {
+        "LAK": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 3
+        },
+        "NJD": {
+          "p": [
+            0,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261024_SJS_BOS",
+      "status": "final",
+      "result": "reg",
+      "home": "BOS",
+      "away": "SJS",
+      "teams": {
+        "SJS": {
+          "p": [
+            1,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 6
+        },
+        "BOS": {
+          "p": [
+            1,
+            1,
+            4
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 6,
+          "ga": 4
+        }
+      }
+    },
+    {
+      "game_id": "20261024_NYR_OTT",
+      "status": "final",
+      "result": "reg",
+      "home": "OTT",
+      "away": "NYR",
+      "teams": {
+        "NYR": {
+          "p": [
+            0,
+            3,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 7
+        },
+        "OTT": {
+          "p": [
+            2,
+            2,
+            3
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 7,
+          "ga": 4
+        }
+      }
+    },
+    {
+      "game_id": "20261024_NSH_PIT",
+      "status": "final",
+      "result": "ot",
+      "home": "PIT",
+      "away": "NSH",
+      "teams": {
+        "NSH": {
+          "p": [
+            1,
+            1,
+            0
+          ],
+          "ot": 0,
+          "so": null,
+          "gf": 2,
+          "ga": 3
+        },
+        "PIT": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": 1,
+          "so": null,
+          "gf": 3,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20261024_BUF_WSH",
+      "status": "final",
+      "result": "ot",
+      "home": "WSH",
+      "away": "BUF",
+      "teams": {
+        "BUF": {
+          "p": [
+            2,
+            0,
+            1
+          ],
+          "ot": 0,
+          "so": null,
+          "gf": 3,
+          "ga": 4
+        },
+        "WSH": {
+          "p": [
+            1,
+            2,
+            0
+          ],
+          "ot": 1,
+          "so": null,
+          "gf": 4,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261024_VGK_CBJ",
+      "status": "final",
+      "result": "ot",
+      "home": "CBJ",
+      "away": "VGK",
+      "teams": {
+        "VGK": {
+          "p": [
+            1,
+            0,
+            0
+          ],
+          "ot": 0,
+          "so": null,
+          "gf": 1,
+          "ga": 2
+        },
+        "CBJ": {
+          "p": [
+            1,
+            0,
+            0
+          ],
+          "ot": 1,
+          "so": null,
+          "gf": 2,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261024_CAR_STL",
+      "status": "final",
+      "result": "reg",
+      "home": "STL",
+      "away": "CAR",
+      "teams": {
+        "CAR": {
+          "p": [
+            0,
+            3,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 0
+        },
+        "STL": {
+          "p": [
+            0,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 0,
+          "ga": 4
+        }
+      }
+    },
+    {
+      "game_id": "20261024_TOR_EDM",
+      "status": "final",
+      "result": "reg",
+      "home": "EDM",
+      "away": "TOR",
+      "teams": {
+        "TOR": {
+          "p": [
+            1,
+            2,
+            4
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 7,
+          "ga": 2
+        },
+        "EDM": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 7
+        }
+      }
+    },
+    {
+      "game_id": "20261024_TBL_UTA",
+      "status": "final",
+      "result": "ot",
+      "home": "UTA",
+      "away": "TBL",
+      "teams": {
+        "TBL": {
+          "p": [
+            3,
+            1,
+            0
+          ],
+          "ot": 0,
+          "so": null,
+          "gf": 4,
+          "ga": 5
+        },
+        "UTA": {
+          "p": [
+            2,
+            2,
+            0
+          ],
+          "ot": 1,
+          "so": null,
+          "gf": 5,
+          "ga": 4
+        }
+      }
+    },
+    {
+      "game_id": "20261024_DET_CGY",
+      "status": "final",
+      "result": "reg",
+      "home": "CGY",
+      "away": "DET",
+      "teams": {
+        "DET": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 4
+        },
+        "CGY": {
+          "p": [
+            1,
+            3,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261024_MIN_SEA",
+      "status": "final",
+      "result": "reg",
+      "home": "SEA",
+      "away": "MIN",
+      "teams": {
+        "MIN": {
+          "p": [
+            1,
+            3,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 1
+        },
+        "SEA": {
+          "p": [
+            1,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 5
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

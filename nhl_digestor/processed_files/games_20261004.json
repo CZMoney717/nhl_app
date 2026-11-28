@@ -1,0 +1,163 @@
+{
+  "source": "ESPN",
+  "date": "2026-10-04",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261004_WPG_DET",
+      "status": "final",
+      "result": "reg",
+      "home": "DET",
+      "away": "WPG",
+      "teams": {
+        "WPG": {
+          "p": [
+            2,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 2
+        },
+        "DET": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261004_UTA_NYR",
+      "status": "final",
+      "result": "reg",
+      "home": "NYR",
+      "away": "UTA",
+      "teams": {
+        "UTA": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 4
+        },
+        "NYR": {
+          "p": [
+            1,
+            0,
+            3
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20261004_FLA_ANA",
+      "status": "final",
+      "result": "ot",
+      "home": "ANA",
+      "away": "FLA",
+      "teams": {
+        "FLA": {
+          "p": [
+            1,
+            0,
+            1
+          ],
+          "ot": 0,
+          "so": null,
+          "gf": 2,
+          "ga": 3
+        },
+        "ANA": {
+          "p": [
+            1,
+            1,
+            0
+          ],
+          "ot": 1,
+          "so": null,
+          "gf": 3,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20261004_CGY_SEA",
+      "status": "final",
+      "result": "reg",
+      "home": "SEA",
+      "away": "CGY",
+      "teams": {
+        "CGY": {
+          "p": [
+            0,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 6
+        },
+        "SEA": {
+          "p": [
+            3,
+            2,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 6,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261004_VGK_VAN",
+      "status": "final",
+      "result": "reg",
+      "home": "VAN",
+      "away": "VGK",
+      "teams": {
+        "VGK": {
+          "p": [
+            0,
+            3,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 2
+        },
+        "VAN": {
+          "p": [
+            1,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 3
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

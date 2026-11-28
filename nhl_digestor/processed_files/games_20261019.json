@@ -1,0 +1,132 @@
+{
+  "source": "ESPN",
+  "date": "2026-10-19",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261019_ANA_NYR",
+      "status": "final",
+      "result": "reg",
+      "home": "NYR",
+      "away": "ANA",
+      "teams": {
+        "NYR": {
+          "p": [
+            1,
+            3,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 2
+        },
+        "ANA": {
+          "p": [
+            0,
+            0,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 5
+        }
+      }
+    },
+    {
+      "game_id": "20261019_COL_PHI",
+      "status": "final",
+      "result": "reg",
+      "home": "PHI",
+      "away": "COL",
+      "teams": {
+        "PHI": {
+          "p": [
+            1,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 2
+        },
+        "COL": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261019_SJS_TOR",
+      "status": "final",
+      "result": "reg",
+      "home": "TOR",
+      "away": "SJS",
+      "teams": {
+        "TOR": {
+          "p": [
+            0,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 1
+        },
+        "SJS": {
+          "p": [
+            1,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261019_PIT_UTA",
+      "status": "final",
+      "result": "reg",
+      "home": "UTA",
+      "away": "PIT",
+      "teams": {
+        "UTA": {
+          "p": [
+            2,
+            2,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 4
+        },
+        "PIT": {
+          "p": [
+            1,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 5
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

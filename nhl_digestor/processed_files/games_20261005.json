@@ -1,0 +1,132 @@
+{
+  "source": "ESPN",
+  "date": "2026-10-05",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261005_PHI_TBL",
+      "status": "final",
+      "result": "reg",
+      "home": "TBL",
+      "away": "PHI",
+      "teams": {
+        "PHI": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 4
+        },
+        "TBL": {
+          "p": [
+            1,
+            1,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261005_OTT_BOS",
+      "status": "final",
+      "result": "reg",
+      "home": "BOS",
+      "away": "OTT",
+      "teams": {
+        "OTT": {
+          "p": [
+            2,
+            2,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 4,
+          "ga": 1
+        },
+        "BOS": {
+          "p": [
+            0,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 4
+        }
+      }
+    },
+    {
+      "game_id": "20261005_WPG_PIT",
+      "status": "final",
+      "result": "reg",
+      "home": "PIT",
+      "away": "WPG",
+      "teams": {
+        "WPG": {
+          "p": [
+            0,
+            0,
+            3
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 2
+        },
+        "PIT": {
+          "p": [
+            0,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261005_SJS_DAL",
+      "status": "final",
+      "result": "reg",
+      "home": "DAL",
+      "away": "SJS",
+      "teams": {
+        "SJS": {
+          "p": [
+            0,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 0,
+          "ga": 5
+        },
+        "DAL": {
+          "p": [
+            1,
+            3,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 0
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

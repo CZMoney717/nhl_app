@@ -1,0 +1,163 @@
+{
+  "source": "ESPN",
+  "date": "2026-11-22",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261122_CAR_NYR",
+      "status": "final",
+      "result": "reg",
+      "home": "NYR",
+      "away": "CAR",
+      "teams": {
+        "NYR": {
+          "p": [
+            1,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 5
+        },
+        "CAR": {
+          "p": [
+            1,
+            3,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 5,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20261122_BUF_TBL",
+      "status": "final",
+      "result": "reg",
+      "home": "TBL",
+      "away": "BUF",
+      "teams": {
+        "TBL": {
+          "p": [
+            1,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 2,
+          "ga": 6
+        },
+        "BUF": {
+          "p": [
+            1,
+            3,
+            2
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 6,
+          "ga": 2
+        }
+      }
+    },
+    {
+      "game_id": "20261122_EDM_STL",
+      "status": "final",
+      "result": "so",
+      "home": "STL",
+      "away": "EDM",
+      "teams": {
+        "STL": {
+          "p": [
+            0,
+            1,
+            3
+          ],
+          "ot": 0,
+          "so": 1,
+          "gf": 5,
+          "ga": 4
+        },
+        "EDM": {
+          "p": [
+            1,
+            2,
+            1
+          ],
+          "ot": 0,
+          "so": 0,
+          "gf": 4,
+          "ga": 5
+        }
+      }
+    },
+    {
+      "game_id": "20261122_PIT_DAL",
+      "status": "final",
+      "result": "reg",
+      "home": "DAL",
+      "away": "PIT",
+      "teams": {
+        "DAL": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 0
+        },
+        "PIT": {
+          "p": [
+            0,
+            0,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 0,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261122_CHI_VAN",
+      "status": "final",
+      "result": "reg",
+      "home": "VAN",
+      "away": "CHI",
+      "teams": {
+        "VAN": {
+          "p": [
+            1,
+            2,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 6
+        },
+        "CHI": {
+          "p": [
+            4,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 6,
+          "ga": 3
+        }
+      }
+    }
+  ],
+  "skipped": []
+}

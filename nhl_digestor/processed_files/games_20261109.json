@@ -1,0 +1,101 @@
+{
+  "source": "ESPN",
+  "date": "2026-11-09",
+  "season_type": "regular",
+  "games": [
+    {
+      "game_id": "20261109_NYR_EDM",
+      "status": "final",
+      "result": "reg",
+      "home": "EDM",
+      "away": "NYR",
+      "teams": {
+        "EDM": {
+          "p": [
+            1,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 1
+        },
+        "NYR": {
+          "p": [
+            0,
+            1,
+            0
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 3
+        }
+      }
+    },
+    {
+      "game_id": "20261109_PHI_VAN",
+      "status": "final",
+      "result": "reg",
+      "home": "VAN",
+      "away": "PHI",
+      "teams": {
+        "VAN": {
+          "p": [
+            0,
+            0,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 1,
+          "ga": 3
+        },
+        "PHI": {
+          "p": [
+            1,
+            1,
+            1
+          ],
+          "ot": null,
+          "so": null,
+          "gf": 3,
+          "ga": 1
+        }
+      }
+    },
+    {
+      "game_id": "20261109_NYI_SJS",
+      "status": "final",
+      "result": "so",
+      "home": "SJS",
+      "away": "NYI",
+      "teams": {
+        "SJS": {
+          "p": [
+            1,
+            1,
+            0
+          ],
+          "ot": 0,
+          "so": 1,
+          "gf": 3,
+          "ga": 2
+        },
+        "NYI": {
+          "p": [
+            1,
+            1,
+            0
+          ],
+          "ot": 0,
+          "so": 0,
+          "gf": 2,
+          "ga": 3
+        }
+      }
+    }
+  ],
+  "skipped": []
+}
